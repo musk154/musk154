@@ -21,7 +21,7 @@ Full-stack sports club management platform, built in a team of four.
 React + TypeScript frontend, Node.js/Express + MongoDB backend, Redis, Nginx, all containerised with Docker Compose.
 Layered architecture, tested at three levels (unit, Supertest integration, Playwright E2E), with 16 functional and 10 non-functional requirements verified against ISO/IEC 25010.
 
-### [Secure Chat (SSI)](https://github.com/...)
+### [Secure Chat (SSI)](https://github.com/musk154/ssi-secure-chat)
 End-to-end encrypted chat application, designed around a cryptographic architecture for secure messaging.
 Key exchange with X25519 ECDH, key derivation with HKDF-SHA256, authenticated encryption with AES-256-GCM, password hashing with Scrypt and local key protection with PBKDF2.
 
