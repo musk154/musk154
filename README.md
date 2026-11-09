@@ -2,8 +2,7 @@
 
 # Hi, I'm Tiago 👋
 
-MSc student in Informatics Engineering at **Universidade do Minho** (Braga, Portugal).
-I'm looking for a **part-time, remote junior developer role** where I can keep learning on real projects.
+MSc student in Informatics Engineering at **Universidade do Minho** (Braga, Portugal), taking the **Language Engineering** and **Computer Graphics** tracks.
 
 ## What I work with
 
@@ -13,7 +12,7 @@ I'm looking for a **part-time, remote junior developer role** where I can keep l
 **Testing:** Unit tests · Supertest (integration) · Playwright (E2E)
 **Networking:** HTTP/2 and HTTP/3, DASH streaming, RTP/RTCP (unicast vs multicast), network emulation with CORE
 **Software engineering:** UML/PlantUML, architecture decision records, requirements specification, Git
-**Compilers/parsing:** lexers and grammars with PLY (Python Lex-Yacc)
+**Languages & graphics:** compilers and parsing (PLY, LALR(1)), [computer graphics tools/libraries you use, e.g. OpenGL, Three.js]
 
 ## Featured projects
 
